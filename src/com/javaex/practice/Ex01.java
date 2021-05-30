@@ -3,7 +3,7 @@ package com.javaex.practice;
 public class Ex01 {
 	public static void main(String[] args) {
 		
-//		int true; // 예약어 true 사용
+//		int true; // 예약어 true 사용불가
 //		-->
 		int true01;
 		
